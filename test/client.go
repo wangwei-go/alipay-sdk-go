@@ -5,7 +5,7 @@ import (
 
 	"github.com/json-iterator/go"
 
-	"github.com/starudream/alipay-sdk-go"
+	"github.com/wangwei-go/alipay-sdk-go"
 )
 
 type Config struct {

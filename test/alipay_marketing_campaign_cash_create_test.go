@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/starudream/alipay-sdk-go/request"
+	"github.com/wangwei-go/alipay-sdk-go/request"
 )
 
 func TestAlipayMarketingCampaignCashCreate(t *testing.T) {

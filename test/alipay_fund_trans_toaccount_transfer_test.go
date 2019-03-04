@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/starudream/alipay-sdk-go/request"
+	"github.com/wangwei-go/alipay-sdk-go/request"
 )
 
 func TestAlipayFundTransToaccountTransfer(t *testing.T) {
