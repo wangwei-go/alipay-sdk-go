@@ -36,6 +36,8 @@ type ATPCExtendParams struct {
 	SysServiceProviderId string `json:"sys_service_provider_id,omitempty"`
 	IndustryRefluxInfo   string `json:"industry_reflux_info,omitempty"`
 	CardType             string `json:"card_type,omitempty"`
+	HbFqNum              string `json:"hb_fq_num,omitempty"`
+	HbFqSellerPercent    string `json:"hb_fq_seller_percent,omitempty"`
 }
 
 type ATPCSettleInfo struct {

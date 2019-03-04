@@ -3,7 +3,7 @@
 ## 安装
 
 ```bash
-go get -u github.com/starudream/alipay-sdk-go
+go get -u github.com/wangwei-go/alipay-sdk-go
 ```
 
 ## 使用
